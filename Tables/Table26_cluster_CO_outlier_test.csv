@@ -1,0 +1,11 @@
+metric,value
+n_all,1596
+n_outliers,33
+wilcox_all,1.28e-99
+wilcox_trimmed,3.47e-95
+t_all,1.95e-122
+t_trimmed,3.04e-120
+mean_C1_all,48.14
+mean_C2_all,36.28
+mean_C1_trimmed,46.99
+mean_C2_trimmed,36.28

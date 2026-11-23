@@ -1,0 +1,6 @@
+model,cluster_effect,p_value,r2
+co ~ cluster,-9.78,4.88e-12,0.03
+co ~ cluster + n_win,-20.09,5.61e-32,0.095
+co ~ cluster + log(n_win),-17.1,4.92e-25,0.072
+co ~ cluster + n_marker,-18.83,5.42e-09,0.036
+co ~ cluster + log(n_marker),-13.46,0.000425,0.031

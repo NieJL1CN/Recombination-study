@@ -1,0 +1,10 @@
+family,chr,trait,peak_marker,nA_parentA,nB_Watkins,freq_A,high_parent,n_high,freq_high,p_binom
+ParW729,1B,distal,BS00012029,37,31,0.544,Watkins,31,0.456,0.545
+ParW579,3B,distal,AX-95020695.3B,58,29,0.667,Watkins,29,0.333,0.00248
+ParW729,4A,distal,BS00021736,37,36,0.507,Paragon,37,0.507,1
+ParW579,4B,distal,AX-94987158.4B,49,36,0.576,Watkins,36,0.424,0.193
+ParW145,5D,whole,BS00067650,38,48,0.442,Watkins,48,0.558,0.332
+ParW007,6A,whole,BS00022095,58,38,0.604,Watkins,38,0.396,0.0519
+RobW145,6B,whole,AX-94410536.6B,40,45,0.471,Watkins,45,0.529,0.665
+ParW049,7B,centromere,AX-94719507,38,36,0.514,Watkins,36,0.486,0.908
+ParW352,7D,distal,BS00009457,28,42,0.4,Watkins,42,0.6,0.12

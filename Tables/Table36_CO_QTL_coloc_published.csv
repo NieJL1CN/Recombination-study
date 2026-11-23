@@ -1,0 +1,9 @@
+trait,n_co_qtl,observed,obs_frac,expected_frac,fold,p_binom,p_adj
+Ant_dto_day,9,0,0,0.076,0,1,1
+Hd_dto_day,9,0,0,0.055,0,1,1
+PH_M_cm,9,1,0.111,0.097,1.15,0.600516875917924,1
+GY_Calc_tha,9,0,0,0.077,0,1,1
+Mat_dto_day,9,0,0,0.141,0,1,1
+GNitr_NIRS_pct,9,0,0,0.07,0,1,1
+NUE_Calc_kgkgN,9,0,0,0.073,0,1,1
+HI_Calc_pct,9,1,0.111,0.063,1.76,0.443190979765143,1

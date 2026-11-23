@@ -1,0 +1,15 @@
+TraesPARA_EIv1.0_2580590	sp|Q6YYZ1|LDL2_ORYSJ	sp|Q6YYZ1|LDL2_ORYSJ Lysine-specific histone demethylase 1 homolog 2 OS=Oryza sativa subsp. japonica OX=39947 GN=Os08g0143400 PE=2 SV=1	81.2	754	0.0	1173
+TraesPARA_EIv1.0_2580590	sp|Q9LID0|LDL2_ARATH	sp|Q9LID0|LDL2_ARATH Lysine-specific histone demethylase 1 homolog 2 OS=Arabidopsis thaliana OX=3702 GN=LDL2 PE=1 SV=1	56.2	749	6.02e-274	776
+TraesPARA_EIv1.0_2580590	sp|Q01H90|LDL3_ORYSI	sp|Q01H90|LDL3_ORYSI Lysine-specific histone demethylase 1 homolog 3 OS=Oryza sativa subsp. indica OX=39946 GN=B0103C08-B0602B01.13 PE=3 SV=1	48.8	719	7.67e-226	655
+TraesPARA_EIv1.0_2580590	sp|Q7XUR2|LDL3_ORYSJ	sp|Q7XUR2|LDL3_ORYSJ Lysine-specific histone demethylase 1 homolog 3 OS=Oryza sativa subsp. japonica OX=39947 GN=Os04g0560300 PE=2 SV=2	48.5	719	3.49e-224	651
+TraesPARA_EIv1.0_2580590	sp|Q9CAE3|FLD_ARATH	sp|Q9CAE3|FLD_ARATH Protein FLOWERING LOCUS D OS=Arabidopsis thaliana OX=3702 GN=FLD PE=1 SV=1	48.3	715	8.81e-222	644
+TraesPARA_EIv1.0_2580590	sp|Q6Z690|LDL1_ORYSJ	sp|Q6Z690|LDL1_ORYSJ Lysine-specific histone demethylase 1 homolog 1 OS=Oryza sativa subsp. japonica OX=39947 GN=Os02g0755200 PE=2 SV=1	49.6	709	2.83e-216	632
+TraesPARA_EIv1.0_2580590	sp|Q8VXV7|LDL1_ARATH	sp|Q8VXV7|LDL1_ARATH Lysine-specific histone demethylase 1 homolog 1 OS=Arabidopsis thaliana OX=3702 GN=LDL1 PE=1 SV=1	49.9	711	2.18e-214	627
+TraesPARA_EIv1.0_2580590	sp|O60341|KDM1A_HUMAN	sp|O60341|KDM1A_HUMAN Lysine-specific histone demethylase 1A OS=Homo sapiens OX=9606 GN=KDM1A PE=1 SV=2	34.1	628	2.46e-98	326
+TraesPARA_EIv1.0_2580590	sp|A0A8I6G2K8|KDM1A_RAT	sp|A0A8I6G2K8|KDM1A_RAT Lysine-specific histone demethylase 1A OS=Rattus norvegicus OX=10116 GN=Kdm1a PE=1 SV=3	34.1	628	3.43e-98	326
+TraesPARA_EIv1.0_2580590	sp|Q6ZQ88|KDM1A_MOUSE	sp|Q6ZQ88|KDM1A_MOUSE Lysine-specific histone demethylase 1A OS=Mus musculus OX=10090 GN=Kdm1a PE=1 SV=2	34.1	628	3.50e-98	326
+TraesPARA_EIv1.0_2580590	sp|Q9VW97|LSDA_DROME	sp|Q9VW97|LSDA_DROME Possible lysine-specific histone demethylase 1 OS=Drosophila melanogaster OX=7227 GN=Su(var)3-3 PE=1 SV=1	34.7	668	5.28e-98	326
+TraesPARA_EIv1.0_2580590	sp|Q8NB78|KDM1B_HUMAN	sp|Q8NB78|KDM1B_HUMAN Lysine-specific histone demethylase 2 OS=Homo sapiens OX=9606 GN=KDM1B PE=1 SV=3	37.5	526	2.07e-91	307
+TraesPARA_EIv1.0_2580590	sp|F4JLS1|LDL3_ARATH	sp|F4JLS1|LDL3_ARATH Lysine-specific histone demethylase 1 homolog 3 OS=Arabidopsis thaliana OX=3702 GN=LDL3 PE=2 SV=1	38.2	508	3.15e-88	308
+TraesPARA_EIv1.0_2580590	sp|Q8CIG3|KDM1B_MOUSE	sp|Q8CIG3|KDM1B_MOUSE Lysine-specific histone demethylase 1B OS=Mus musculus OX=10090 GN=Kdm1b PE=1 SV=1	37.0	522	1.17e-87	297
+TraesPARA_EIv1.0_2580590	sp|Q4WQJ1|HDMA_ASPFU	sp|Q4WQJ1|HDMA_ASPFU Histone demethylase-like protein A OS=Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293) OX=330879 GN=hdmA PE=3 SV=1	31.6	655	6.35e-68	246

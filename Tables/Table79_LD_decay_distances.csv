@@ -1,0 +1,15 @@
+family,chr,group,n_lines,n_pairs,d50,d30,d20
+ParW729,1B,carrier,34,412,31.5,,
+ParW729,1B,non,40,412,36.7,,
+ParW579,3B,carrier,58,2344,19,38.4,
+ParW579,3B,non,29,2056,30.6,,
+ParW729,4A,carrier,29,409,17,31.6,36.7
+ParW729,4A,non,43,411,14.6,22.9,33.8
+ParW579,4B,carrier,49,428,13.6,17.6,20
+ParW579,4B,non,36,407,7.5,15.2,33.8
+ParW007,6A,carrier,45,3203,25.8,,
+ParW007,6A,non,36,2741,29.2,,
+RobW145,6B,carrier,40,3279,12.1,20.5,29.6
+RobW145,6B,non,45,3131,16.8,32.3,42.7
+ParW049,7B,carrier,38,576,22.3,31.6,38.4
+ParW049,7B,non,36,624,30.4,38.6,43.7

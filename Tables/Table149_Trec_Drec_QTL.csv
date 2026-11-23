@@ -1,0 +1,2 @@
+case,treat,g50_mean,g50_se,g99_mean,g99_se,g100_mean,reached100,n
+Trec_Drec,QTL,3.244,0.0135885484378814,9.693,0.0153292526232033,14.1072,0.625,1000

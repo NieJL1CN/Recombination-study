@@ -1,0 +1,2 @@
+gene	start	end
+SUVR4_region	459700000	459900000

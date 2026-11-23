@@ -1,0 +1,5 @@
+gene,qtl,window,n_snp,n_wat_max,frac_polymorphic,mean_af,n_parent_diff_snp,median_af_parent_diff
+RECQL1,ParW579-4B,163.83-163.845 Mb (15 kb),137,826,0.19,0.053,0,
+RBR2,ParW729-4A,530.89-530.99 Mb (+-5 kb),91,826,0.055,0.012,18,0.075
+CPL3,ParW729-4A,532.39-532.50 Mb (+-5 kb),103,826,0.23,0.02,20,0.075
+SUVR4,RobW145-6B,459.78-459.84 Mb (60 kb),1343,826,0.57,0.184,2146,0.175

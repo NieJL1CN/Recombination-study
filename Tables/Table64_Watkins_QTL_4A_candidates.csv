@@ -1,0 +1,19 @@
+gene_id,chr,gene_Mb,dist_Mb,family,trait,direction,lod,swissprot_protein,species,evalue,identity_pct
+TraesPARA_EIv1.0_1275840,4A,526,-4.94,ParW729,distal,Watkins,3.55,Erlin-2,cow,1.76e-117,59
+TraesPARA_EIv1.0_1275860,4A,526.11,-4.83,ParW729,distal,Watkins,3.55,,,,
+TraesPARA_EIv1.0_1275940,4A,526.8,-4.14,ParW729,distal,Watkins,3.55,Probable galacturonosyltransferase-like 4,Arabidopsis thaliana,3.28e-164,68.1
+TraesPARA_EIv1.0_1275980,4A,527.22,-3.72,ParW729,distal,Watkins,3.55,,,,
+TraesPARA_EIv1.0_1276040,4A,527.96,-2.98,ParW729,distal,Watkins,3.55,Aminopeptidase P1,Lotus japonicus,0,67.8
+TraesPARA_EIv1.0_1276090,4A,529.26,-1.68,ParW729,distal,Watkins,3.55,Phosphatidylinositol 4-phosphate 5-kinase 4,Arabidopsis thaliana,1.08e-210,62.2
+TraesPARA_EIv1.0_1276140,4A,529.82,-1.12,ParW729,distal,Watkins,3.55,Probable protein phosphatase 2C 12,Arabidopsis thaliana,4.32e-180,63.1
+TraesPARA_EIv1.0_1276150,4A,529.83,-1.11,ParW729,distal,Watkins,3.55,,,,
+TraesPARA_EIv1.0_1276170,4A,529.86,-1.08,ParW729,distal,Watkins,3.55,,,,
+TraesPARA_EIv1.0_1276210,4A,530.16,-0.78,ParW729,distal,Watkins,3.55,,,,
+TraesPARA_EIv1.0_1276220,4A,530.16,-0.78,ParW729,distal,Watkins,3.55,,,,
+TraesPARA_EIv1.0_1276240,4A,530.2,-0.74,ParW729,distal,Watkins,3.55,Paladin,zebrafish,1.29e-32,23.9
+TraesPARA_EIv1.0_1276290,4A,530.71,-0.23,ParW729,distal,Watkins,3.55,Retinoblastoma-related protein 2,rice (japonica),0,80.1
+TraesPARA_EIv1.0_1276330,4A,532.22,1.28,ParW729,distal,Watkins,3.55,RNA polymerase II C-terminal domain phosphatase-like 3,Arabidopsis thaliana,4.19e-240,42.3
+TraesPARA_EIv1.0_1276350,4A,533.82,2.88,ParW729,distal,Watkins,3.55,ABC transporter E family member 2,Arabidopsis thaliana,0,88.9
+TraesPARA_EIv1.0_1276380,4A,534.24,3.3,ParW729,distal,Watkins,3.55,,,,
+TraesPARA_EIv1.0_1276460,4A,535.28,4.34,ParW729,distal,Watkins,3.55,Outer mitochondrial transmembrane helix translocase,yeast,9.93e-68,46.4
+TraesPARA_EIv1.0_1276470,4A,535.3,4.36,ParW729,distal,Watkins,3.55,Protein LURP-one-related 11,Arabidopsis thaliana,5.6e-34,40

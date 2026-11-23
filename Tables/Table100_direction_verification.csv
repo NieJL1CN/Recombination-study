@@ -1,0 +1,10 @@
+family,chr,trait,marker,nA,nB,mean_A,mean_B,diff_B_minus_A,eff_table,direction_table
+ParW729,1B,distal,BS00012029,35,27,25.17,26.34,1.17,-10.02,Paragon
+ParW579,3B,distal,AX-95020695.3B,58,29,25.81,27.1,1.29,-25.92,Paragon
+ParW729,4A,distal,AX-95228798-4A,43,29,27.05,24.59,-2.45,9.94,Watkins
+ParW579,4B,distal,AX-94987158.4B,49,36,25.01,27.48,2.48,-17.95,Paragon
+ParW145,5D,whole,AX-94527390.5D,45,36,52.69,53.92,1.23,-35.9,Paragon
+ParW007,6A,whole,AX-94939555.6A,45,36,49,51.25,2.25,-19.09,Paragon
+RobW145,6B,whole,AX-94410536.6B,40,45,52,55.53,3.53,-27.64,Robigus
+ParW049,7B,centromere,AX-94719507,38,36,2.01,2.4,0.38,-3.06,Paragon
+ParW352,7D,distal,AX-94861586-7D,41,45,22.64,23.45,0.81,-11.3,Paragon

@@ -1,0 +1,22 @@
+gene_id,gene_start,dist_Mb,direction,cs_id,chr,pident,gene_names,protein_name
+TraesPARA_EIv1.0_1336410,163750002,-3.6,Paragon,TraesCS4B02G126200,4B,100,LOC123091598,J domain-containing protein
+TraesPARA_EIv1.0_1336420,163772506,-3.57,Paragon,TraesCS4B02G126300,4B,100,LOC123096852,AAA+ ATPase domain-containing protein
+TraesPARA_EIv1.0_1336550,165692481,-1.65,Paragon,TraesCS4B02G126400,4B,100,LOC123091603,Kinesin motor domain-containing protein
+TraesPARA_EIv1.0_1336590,165762476,-1.58,Paragon,TraesCS4B02G126500,4B,100,LOC123091605,Uncharacterized protein
+TraesPARA_EIv1.0_1336680,168323240,0.98,Paragon,TraesCS4D02G144500,4D,93.1,LOC123096847,Uncharacterized protein
+TraesPARA_EIv1.0_1336720,168396168,1.05,Paragon,TraesCS4A02G170100,4A,98.4,LOC123091608,ATP-dependent DNA helicase (EC 5.6.2.4)
+TraesPARA_EIv1.0_1336790,169456642,2.11,Paragon,TraesCS4B02G126700,4B,100,"",Calmodulin-binding protein
+TraesPARA_EIv1.0_1336900,169832615,2.49,Paragon,TraesCS4B02G126800,4B,100,LOC123091613,Uncharacterized protein
+TraesPARA_EIv1.0_1336910,169841011,2.49,Paragon,TraesCS4B02G126900,4B,100,LOC123091614,TMEM205-like domain-containing protein
+TraesPARA_EIv1.0_1336950,170510592,3.16,Paragon,TraesCS4B02G127100,4B,100,LOC123091616,Fibronectin type III-like domain-containing protein
+TraesPARA_EIv1.0_1336960,170516472,3.17,Paragon,TraesCS6A02G204500,6A,60.9,"",DUF8483 domain-containing protein
+TraesPARA_EIv1.0_1337010,171065896,3.72,Paragon,TraesCS4B02G127200,4B,100,LOC123094674,Pectinesterase inhibitor domain-containing protein
+TraesPARA_EIv1.0_1337060,171208173,3.86,Paragon,TraesCS4B02G127300,4B,100,LOC123091618,Uncharacterized protein
+TraesPARA_EIv1.0_1337070,171264100,3.92,Paragon,TraesCS4B02G127400,4B,98.7,LOC123091619,non-specific serine/threonine protein kinase (EC 2.7.11.1)
+TraesPARA_EIv1.0_1337090,171291095,3.94,Paragon,TraesCS1A02G397600,1A,37.7,"",HAT C-terminal dimerisation domain-containing protein
+TraesPARA_EIv1.0_1337100,171336576,3.99,Paragon,TraesCS4B02G200700,4B,72,"",RNase H type-1 domain-containing protein
+TraesPARA_EIv1.0_1337130,171838363,4.49,Paragon,TraesCS4B02G127500,4B,99.8,LOC123091622,WEB family protein
+TraesPARA_EIv1.0_1337140,171844133,4.5,Paragon,TraesCS4B02G127600,4B,99.8,LOC123091621,non-reducing end alpha-L-arabinofuranosidase (EC 3.2.1.55) (Beta-D-xylosidase)
+TraesPARA_EIv1.0_1337150,171858690,4.51,Paragon,TraesCS4B02G127700,4B,100,LOC123096550 LOC123091623,Mitochondrial import inner membrane translocase subunit
+TraesPARA_EIv1.0_1337190,171874646,4.53,Paragon,TraesCS4B02G127800,4B,100,LOC123091624,DYW domain-containing protein
+TraesPARA_EIv1.0_1337250,172081913,4.74,Paragon,TraesCS4B02G128000,4B,100,LOC123094677,Uncharacterized protein

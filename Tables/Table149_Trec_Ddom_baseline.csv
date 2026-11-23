@@ -1,0 +1,2 @@
+case,treat,g50_mean,g50_se,g99_mean,g99_se,g100_mean,reached100,n
+Trec_Ddom,baseline,2,0,2,0,2,0.686,1000

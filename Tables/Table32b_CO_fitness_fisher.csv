@@ -1,0 +1,5 @@
+trait,n_families,chi2,p_meta,mean_rho
+Hd_dto_day,6,9.88,0.627,-0.026
+PH_M_cm,12,41.16,0.016,-0.005
+GY_Calc_tha,12,28.25,0.25,0.032
+GW_M_g1000grn,2,1.68,0.795,0.048

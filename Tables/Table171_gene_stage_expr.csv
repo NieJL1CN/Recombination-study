@@ -1,0 +1,36 @@
+gene,stage,value
+RBR2,latent_lepto,8.432
+RBR2,diplo_dia,6.8737
+RBR2,zygo_pachy,7.11748
+RBR2,metaphaseI,7.09701
+CPL3,latent_lepto,4.07489
+CPL3,diplo_dia,3.60291
+CPL3,zygo_pachy,3.09803
+CPL3,metaphaseI,3.34369
+RHC1A,latent_lepto,0.010408
+RHC1A,diplo_dia,0.0
+RHC1A,zygo_pachy,0.02627
+RHC1A,metaphaseI,0.142747
+ATG12,latent_lepto,16.5831
+ATG12,diplo_dia,15.5254
+ATG12,zygo_pachy,17.9498
+ATG12,metaphaseI,16.6122
+RECQL1,latent_lepto,2.37065
+RECQL1,diplo_dia,2.31541
+RECQL1,zygo_pachy,2.51262
+RECQL1,metaphaseI,2.07586
+RECQL1,CS-Anther,3.554606
+RECQL1,CS-Diplotene/Diakinesis,5.31933
+RECQL1,CS-Flagleaf,1.125571
+RECQL1,CS-Leaf,1.911576
+RECQL1,CS-Leptotene,0.837574
+RECQL1,CS-Metaphase-I,0.448689
+RECQL1,CS-Metaphase-II,2.700578
+RECQL1,CS-Pachytene,1.261521
+RECQL1,CS-Pollen,1.557055
+RECQL1,CS-Pre-meiotic G2,1.545651
+RECQL1,CS-Zygotene,2.029647
+RECQL1,CSPh1b-Anther,2.725966
+RECQL1,CSPh1b-Flag leaf,1.065912
+RECQL1,CSPh1b-Leaf,2.370566
+RECQL1,CSPh1b-Pollen,2.025715
