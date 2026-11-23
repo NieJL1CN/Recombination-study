@@ -1,0 +1,10 @@
+﻿QTL,Trait,"Mean, Paragon or Robigus allele","Mean, Watkins allele",Difference (Watkins - Paragon/Robigus),Increasing allele,% of mean,R²,LOD
+ParW579-3B,distal,25.81,27.10,+1.29,Watkins,4.9,0.225,5.02
+ParW729-1B,distal,25.17,26.34,+1.17,Watkins,4.6,0.201,3.75
+ParW729-4A,distal,27.05,24.59,**-2.45**,**Paragon**,9.4,0.191,3.55
+ParW352-7D,distal,22.64,23.45,+0.81,Watkins,3.5,0.159,3.45
+ParW579-4B,distal,25.01,27.48,+2.48,Watkins,9.5,0.160,3.44
+ParW049-7B,centromere,2.01,2.40,+0.38,Watkins,17.3,0.152,3.36
+ParW007-6A,whole,49.00,51.25,+2.25,Watkins,4.5,0.146,3.08
+ParW145-5D,whole,52.69,53.92,+1.23,Watkins,2.3,0.148,3.01
+RobW145-6B,whole,52.00,55.53,+3.53,Watkins,6.6,0.144,2.96

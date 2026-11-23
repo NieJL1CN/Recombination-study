@@ -1,0 +1,3 @@
+﻿Family,Neither,QTL1 only,QTL2 only,Both,Expected if additive,Observed,Interaction P
+ParW579 (3B + 4B),24.54,+1.32,+2.98,+3.41,+4.30,+3.41 (79%),0.74
+ParW729 (1B + 4A),24.26,+0.75,+2.51,+2.99,+3.26,+2.99 (92%),0.91
